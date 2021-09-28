@@ -1,6 +1,6 @@
 import './App.css';
 
-import SearchMovie from './component/SearchMovie';
+import SearchMovie from './components/SearchMovie';
 
 function App() {
   return (
